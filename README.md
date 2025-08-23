@@ -60,7 +60,7 @@ Me adapto rápidamente a nuevos desafíos y entornos, siempre impulsando la **ca
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Maestro%20Roshi&quote=Hay%20que%20trabajar,%20hay%20que%20aprender,%20hay%20que%20comer,%20hay%20que%20descansar%20y%20tambi%C3%A9n%20hay%20que%20jugar.">
+    <img src="https://readme-daily-quotes.vercel.app/api?theme=algolia&font=merienda&author=Maestro%20Roshi&quote=Hay%20que%20trabajar,%20hay%20que%20aprender,%20hay%20que%20comer,%20hay%20que%20descansar%20y%20tambi%C3%A9n%20hay%20que%20jugar.">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
