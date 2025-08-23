@@ -4,6 +4,25 @@
 
 <h2 align="center">¡Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">! Soy Rodrigo Tecuatl</h2>
 
+<!--### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contacto -->
+<p align="center">
+  <a href="mailto:rodrigotecuatl@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rodrigo-tecuatl-cuautle" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tunombre.dev" target="_blank">
+    <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://x.com/RodrigoTecuatlC" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/rodrigo.tecuatl" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 ## 👨‍💻 Sobre mí
 
 Soy desarrollador **Full Stack** con más de **4 años de experiencia** en ingeniería de software. He trabajado con equipos de alto rendimiento en la entrega de soluciones **innovadoras** y **centradas en el cliente**, superando constantemente las expectativas comerciales.
@@ -36,35 +55,12 @@ Me adapto rápidamente a nuevos desafíos y entornos, siempre impulsando la **ca
 
 ---
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contacto
-
-<p align="left">
-  <a href="mailto:rodrigotecuatl@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/rodrigo-tecuatl-cuautle" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://tunombre.dev" target="_blank">
-    <img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://x.com/RodrigoTecuatlC" target="_blank">
-    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rodrigo.tecuatl" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?theme=algolia&font=merienda&author=Maestro%20Roshi&quote=Hay%20que%20trabajar,%20hay%20que%20aprender,%20hay%20que%20comer,%20hay%20que%20descansar%20y%20tambi%C3%A9n%20hay%20que%20jugar.">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
----
 <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
