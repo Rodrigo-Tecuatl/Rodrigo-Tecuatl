@@ -2,7 +2,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h2 align="center">¡Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">! Soy Rodrigo Tecuatl</h2>
+<h2 align="center">¡Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">! Soy Rodrigo Tecuatl</h2>
 
 ## 👨‍💻 Sobre mí
 
