@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width="100%" src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=header&text=&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" />
 </div>
 
 <h2 align="center">¡Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">! Soy Rodrigo Tecuatl</h2>
@@ -65,3 +65,7 @@ Me adapto rápidamente a nuevos desafíos y entornos, siempre impulsando la **ca
 <!--ENDS_HERE_QUOTE_CARD-->
 
 ---
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
