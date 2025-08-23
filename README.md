@@ -36,7 +36,7 @@ Me adapto rápidamente a nuevos desafíos y entornos, siempre impulsando la **ca
 
 ---
 
-## 📫 Contacto
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contacto
 
 <p align="left">
   <a href="mailto:rodrigotecuatl@gmail.com" target="_blank">
