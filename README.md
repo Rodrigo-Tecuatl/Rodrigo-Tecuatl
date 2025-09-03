@@ -6,7 +6,7 @@
    <img width="25%" alt="github_avatar_2" src="https://github.com/user-attachments/assets/ca9986b2-dc95-4be7-adc8-4f13e2cd1177" />
 </div>
 
-<h2 align="center">¡Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">! Soy Rodrigo Tecuatl</h2>
+<h2 align="center">¡Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">! Soy Rodrigo Tecuatl Cuautle</h2>
 
 <!--### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contacto -->
 <p align="center">
