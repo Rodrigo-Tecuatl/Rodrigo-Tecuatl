@@ -2,6 +2,10 @@
    <img width="100%" src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=header&text=&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" />
 </div>
 
+<div align="center">
+   <img width="25%" alt="github_avatar_2" src="https://github.com/user-attachments/assets/ca9986b2-dc95-4be7-adc8-4f13e2cd1177" />
+</div>
+
 <h2 align="center">¡Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">! Soy Rodrigo Tecuatl</h2>
 
 <!--### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> Contacto -->
