@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   <img width="35%" alt="github_avatar_2" src="https://github.com/user-attachments/assets/7867215c-ef56-48ba-b094-70ba9ae0c063" />
+   <img width="35%" alt="github_avatar_2" src="https://github.com/user-attachments/assets/0ef046c6-ae14-4ddd-8447-b272a6afa355" />
 </div>
 
 <h2 align="center">¡Hola <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">! Soy Rodrigo Tecuatl Cuautle</h2>
